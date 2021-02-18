@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G6s4WVk3sKzMXtdtzIqX17XTEt/geNmZYydsakamgKYgp87ukFYbF5cpuV9Z+TywQI8fn3se58rXcn9Wp+z61g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\william.wolke\\Documents\\Programering 2\\APIklient\\APIklient\\APIklient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\william.wolke\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\william.wolke\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -12,6 +12,7 @@ namespace APIklient
             RestRequest request = new RestRequest("pokemon/ditto");
             IRestResponse response = client.Get(request);
             Console.WriteLine(response.Content);
+            System.Console.ReadLine();
 
         }
     }

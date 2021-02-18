@@ -1,0 +1,16 @@
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\bin\Debug\netcoreapp3.1\APIklient.exe
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\bin\Debug\netcoreapp3.1\APIklient.deps.json
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\bin\Debug\netcoreapp3.1\APIklient.runtimeconfig.json
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\bin\Debug\netcoreapp3.1\APIklient.runtimeconfig.dev.json
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\bin\Debug\netcoreapp3.1\APIklient.dll
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\bin\Debug\netcoreapp3.1\APIklient.pdb
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\obj\Debug\netcoreapp3.1\APIklient.csprojAssemblyReference.cache
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\obj\Debug\netcoreapp3.1\APIklient.AssemblyInfoInputs.cache
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\obj\Debug\netcoreapp3.1\APIklient.AssemblyInfo.cs
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\obj\Debug\netcoreapp3.1\APIklient.csproj.CoreCompileInputs.cache
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\obj\Debug\netcoreapp3.1\APIklient.csproj.CopyComplete
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\obj\Debug\netcoreapp3.1\APIklient.dll
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\obj\Debug\netcoreapp3.1\APIklient.pdb
+C:\Users\william.wolke\Documents\Programering 2\APIklient\APIklient\obj\Debug\netcoreapp3.1\APIklient.genruntimeconfig.cache
