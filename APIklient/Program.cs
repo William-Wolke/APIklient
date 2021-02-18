@@ -14,6 +14,8 @@ namespace APIklient
             Console.WriteLine(response.Content);
             System.Console.ReadLine();
 
+            Pokemon newPokemon = JsonConvert.DeserializeObject<Pokemon>(response.Content);
+
         }
     }
 }
