@@ -8,13 +8,16 @@ namespace APIklient
     {
         static void Main(string[] args)
         {
-            RestClient client = new RestClient("http://stapi.co/api/v1/rest/season/search");
-            RestRequest request = new RestRequest("");
+            RestClient client = new RestClient("https://swapi.dev/api/");
+            RestRequest request = new RestRequest("people/1/");
             IRestResponse response = client.Get(request);
-            Console.WriteLine(response.Content);
-            System.Console.ReadLine();
 
-            Pokemon newPokemon = JsonConvert.DeserializeObject<Pokemon>(response.Content);
+
+
+            Console.WriteLine(response.Content);
+
+            
+            System.Console.ReadLine();
         }
     }
 }
