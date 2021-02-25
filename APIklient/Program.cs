@@ -12,9 +12,14 @@ namespace APIklient
             RestRequest request = new RestRequest("people/1/");
             IRestResponse response = client.Get(request);
 
+            if (response.StatusCode == System.Net.HttpStatusCode.OK)
+            {
+                Karaktär karaktären = JsonConvert.DeserializeObject<Karaktär>(response.Content);
 
+                // Console.WriteLine($"Pokemon: {thePokemon.Name} - XP: {thePokemon.BaseExperience}");
 
-            Console.WriteLine(response.Content);
+                Console.WriteLine(karaktären.Abilities[1].Name);
+            }
 
             
             System.Console.ReadLine();
